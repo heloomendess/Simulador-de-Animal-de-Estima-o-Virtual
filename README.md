@@ -25,4 +25,4 @@ Imagine que você é um cuidador de animais e acabou de receber a responsabilida
 - Tempo passando
 - Verificar se perdeu
 
-- App desenvolvido na Linguagem de Programação Kotlin.
+### App desenvolvido na Linguagem de Programação Kotlin.
